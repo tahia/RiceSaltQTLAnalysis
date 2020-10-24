@@ -19,14 +19,12 @@ Required RData:
     
     Phenotypes and map for reproductive stage salt treatment in r/qtl format: Reproductive_Reload_V5_RQTL2.RData
   
-
 Genotype Data:
  
     Genotypes for mapping population for seedling stage: Seedling_gen.csv
     
     Genotypes for mapping population for reproductive stage: Reproductive_gen.csv
     
- 
 Phenotype Data: 
 
    Traits for mapping population for seedling stage: Seedling_phe.csv
