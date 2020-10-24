@@ -27,6 +27,6 @@ Genotype Data:
     
 Phenotype Data: 
 
-   Traits for mapping population for seedling stage: Seedling_phe.csv
+    Traits for mapping population for seedling stage: Seedling_phe.csv
     
-   Traits for mapping population for reproductive stage: Reproductive_phe.csv
+    Traits for mapping population for reproductive stage: Reproductive_phe.csv
