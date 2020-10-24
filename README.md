@@ -8,7 +8,9 @@ doi: https://doi.org/10.1101/2020.03.01.971895
 
 Content of this repository:
 
-Rscript for QTL analysis : Rice_QTL_Final.R
+Rscript for QTL analysis : 
+    
+    Rice_QTL_Final.R
 
 Required RData:
 
