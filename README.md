@@ -9,9 +9,12 @@ doi: https://doi.org/10.1101/2020.03.01.971895
 Content of this repository:
 
 Rscript for QTL analysis : Rice_QTL_Final.R
+
 Required RData:
-  Phenotypes and map for seedling stage salt treatment in r/qtl2 format: Seedling_Reload_V5_RQTL2.RData
-  Phenotypes and map for reproductive stage salt treatment in r/qtl2 format: Reproductive_Reload_V5_RQTL2.RData
+
+    Phenotypes and map for seedling stage salt treatment in r/qtl2 format: Seedling_Reload_V5_RQTL2.RData
+    
+    Phenotypes and map for reproductive stage salt treatment in r/qtl2 format: Reproductive_Reload_V5_RQTL2.RData
   
   
 
